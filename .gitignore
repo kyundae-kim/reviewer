@@ -12,3 +12,5 @@ local/
 channel_directory.json
 gateway_state.json
 gateway.lock
+.hermes_history
+.update_check
