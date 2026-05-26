@@ -1,4 +1,4 @@
-name: architect
+name: reviewer
 version: 1.0.0
 description: "An agent that assists in architectural design and planning."
 hermes_requires: ">=0.14.0"
