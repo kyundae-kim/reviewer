@@ -11,3 +11,4 @@ local/
 .skills_prompt_snapshot.json
 channel_directory.json
 gateway_state.json
+gateway.lock
