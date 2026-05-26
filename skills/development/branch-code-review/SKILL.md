@@ -53,3 +53,4 @@ Produce a review that is:
 
 ## References
 - See `references/fastapi-core-review-signals.md` for concrete signals observed in a real FastAPI branch review.
+- See `references/readiness-dependency-resolution-probe.md` for a reproducible probe to catch eager dependency resolution that bypasses readiness toggles.
