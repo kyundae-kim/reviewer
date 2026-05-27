@@ -15,4 +15,5 @@ gateway.lock
 .hermes_history
 .update_check
 .usage.json
-
+config.yaml.bak.*
+models_dev_cache.json
