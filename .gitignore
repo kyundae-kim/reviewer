@@ -17,3 +17,4 @@ gateway.lock
 .usage.json
 config.yaml.bak.*
 models_dev_cache.json
+home/.cache/

@@ -1,5 +1,5 @@
 name: reviewer
-version: 1.0.3
+version: 1.0.4
 description: "An agent that reviews code and provides feedback."
 hermes_requires: ">=0.14.0"
 author: aman
